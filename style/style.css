@@ -285,4 +285,40 @@ body {
 	height: 236px;
 }
 .new__item {
+	width: 300px;
+	height: 350px;
+	margin: 150px 0 0 405px ;
+}
+.new__item__h2{
+	margin: 0 0 100px ;
+	color: #212121;
+	font-size: 36px;
+	font-weight: 700;
+	letter-spacing: 1.44px;
+	width: 400px;
+}
+.item__cards__container {
+	width: 1270px;
+	height: 649px;
+}
+.img__item-cards{
+	width: 255px;
+	height: 350px;
+	margin: 0 55px 0 0;
+}
+.new__item__btn {
+	border-radius: none;
+	background: #D7B399;
+	border: none;
+	color: #fff;
+	width: 220px;
+	height: 55px;
+	font-size: 16px;
+	letter-spacing: 0.48px;
+	margin: 103px 0 0 405px;
+}
+.img__btn{
+	position: relative;
+	bottom: 2px;
+	width: 20px;
 }
